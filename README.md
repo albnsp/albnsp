@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there, welcome to my GitHub profile 👋</h2>
 <table align=center>
   <tr>
-    <td align=center><a href="https://web.telegram.org/z/">Telegram<br/></a>@a1ekseev_artem</td>
-    <td align=center><a href="a1ekseevartem.ru@gmail.com">Gmail<br/>a1ekseevartem.ru@gmail.com</a></td>
+    <td align=center><a href="https://web.telegram.org/z/">Telegram<br/></albnsp/td>
+    <td align=center><a href="a.suprunova1@gmail.com">Gmail<br/>a.suprunova1@gmail.com</a></td>
   </tr>
 </table>
 
